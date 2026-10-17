@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Musify
+GenericName=Music streaming
+Comment=Stream and download music (unofficial Linux build)
+Exec=musify %U
+Icon=musify
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+Keywords=music;audio;stream;player;
+StartupWMClass=musify
